@@ -1,1 +1,1 @@
-# Medical-Image-Captioning
+# Medical Image Captioning
